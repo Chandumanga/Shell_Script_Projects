@@ -1,5 +1,5 @@
 # Shell_Script_Project
-This repository consists of applications such as 
+This repository consists of applications such as:
 1.User management application:
 In this application we have seven options like Add user,Search for user,Change password,Delete user,Show all
 users,Users count,Exit.
